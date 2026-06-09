@@ -1,11 +1,16 @@
-create new project
-___________________
-access window PowerShell
-cd [location name]
-Laravel new [project name]
+ Installation tools
+_____________________
+- Herd-1.14.0-setup
+- xampp-windows-x64-8.2.12-0-VS16-installer
+ 
+ create new project
+_____________________
+- access window PowerShell
+- cd [location name]
+- Laravel new [project name]
 
  Lesson php
-____________
+______________
 - npm run build
 - php artisan make:model [tablename] -mfs
 - php artisan migrate:fresh --seed
